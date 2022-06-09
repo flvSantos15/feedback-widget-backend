@@ -1,8 +1,8 @@
-<div align="center"><img src="feedback-widget.png" alt="Feedback Widget"/></div>
+<!-- <div align="center"><img src="feedback-widget.png" alt="Feedback Widget"/></div> -->
 
 <div id='about'>
   <h1 align="center">
-	  🚧  Feedback Widgte 🚀 In construction...  🚧
+	  🚧  Feedback Widget Backend 🚀  🚧
   </h1>
   <p align="center">🚀 It's an application developed to get feedback from user</p><br/>
 </div>
@@ -15,8 +15,6 @@ Tabela de conteúdos
       * [Requirements](#requirements)
    * [Tecnologies](#technologies)
    * [Features](#features)
-   * [Features By Me](#featuresByMe)
-   * [Learnings](#learnings)
    * [Author](#author)
 <!--te-->
 
@@ -61,42 +59,26 @@ Tabela de conteúdos
   yarn dev
   ```
 
-  Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  Open [http://localhost:3000](http://localhost:3333) with your browser to see the result.
  </div>
 
 <div id='technologies'>
   <h2>This application is being built using the following technologies:</h2>
   
-  - [React](https://pt-br.reactjs.org/)
   - [TypeScript](https://www.typescriptlang.org/)
-  - [Tailwindcss](https://tailwindui.com)
-  - [Headless](https://headlessui.dev/)
-  - [Phosphor](https://phosphoricons.com/)
+  - [Nodejs](https://nodejs.org/)
+  - [Prisma](https://www.prisma.io/react-server-components)
+  - [Jest](https://jestjs.io/pt-BR/)
 </div>
 
 <div id='features'>
   <h2>Features developed during the classes</h2>
 
-  - [  ] Web view
-  - [  ] Mobile view
-  - [  ] dark and light mode
+  - [  ] Envio de email com nodemailer
+  - [  ] Envio de dados ao banco de dados prisma
+  - [  ] Melhores práticas com solid
+  - [  ] Testes unitários com jest
   
-</div>
-
-<div id='featuresByMe'>
-  <h2>Features developed by me</h2>
-
-  - [  ] Web view
-  - [  ] Mobile view
-  - [  ] dark and light mode
-  
-</div>
-
-<div id='learnings'>
-  <h2>Learnings</h2>
-  
-  <li>Phosphor icons let me add stiles to the icons as I want, like weight, widht, outline color, and much more.</li>
-  <li>Headlessui let me add acessibility for my application, like tab and esc functionality, a text when the user hovers something.</li>
 </div>
 
 <div id='author'>
