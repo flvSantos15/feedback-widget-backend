@@ -74,10 +74,10 @@ Tabela de conteúdos
 <div id='features'>
   <h2>Features developed during the classes</h2>
 
-  - [  ] Envio de email com nodemailer
-  - [  ] Envio de dados ao banco de dados prisma
-  - [  ] Melhores práticas com solid
-  - [  ] Testes unitários com jest
+  - [ x ] Envio de email com nodemailer
+  - [ x ] Envio de dados ao banco de dados prisma
+  - [ x ] Melhores práticas com solid
+  - [ x ] Testes unitários com jest
   
 </div>
 
